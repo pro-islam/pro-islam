@@ -6,8 +6,8 @@ I am a full-stack Web Application Developer and Software Developer, currently li
 
 Skills:  HTML / CSS / BOOTSTRAP / JS / REACT / NODEJS / MongoDB / API
 
-- 🔭 I’m currently working on RaddSoft Technology 
-- 🌱 I’m currently learning MERN STACK 
+- 🔭 I’m currently working on Airline App  
+- 🌱 I’m currently learning Microservices
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 
